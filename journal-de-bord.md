@@ -29,4 +29,5 @@ langue ? Plutôt utilisé comme substantif, adj, verbe ?
 Les autres personnes du groupe sont assez enthousiastes pour l'étude de ce 
 mot. Valentina a également suggéré va-et-vient et âme soeur. 
 
-
+## 18/10/2022
+Modification des scripts bash. Je n'ai pas réussi à faire le 2ème exercice.
