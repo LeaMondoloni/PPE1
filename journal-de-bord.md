@@ -31,3 +31,9 @@ mot. Valentina a également suggéré va-et-vient et âme soeur.
 
 ## 18/10/2022
 Modification des scripts bash. Je n'ai pas réussi à faire le 2ème exercice.
+
+## 24/10/2022 Mise à jour cours de la semaine dernière et script classement des lieux 
+
+Les mots de notre projet ( geek et nerd) ont été validés. Le git du groupe fonctionne pour nous 3. La récolte d'URL est en cours.
+
+Pour l'exercice 2 que je n'avait pas réussi à faire la semaine dernière, j'ai finalement trouvé un script qui fonctionne.
