@@ -37,3 +37,16 @@ Modification des scripts bash. Je n'ai pas réussi à faire le 2ème exercice.
 Les mots de notre projet ( geek et nerd) ont été validés. Le git du groupe fonctionne pour nous 3. La récolte d'URL est en cours.
 
 Pour l'exercice 2 que je n'avait pas réussi à faire la semaine dernière, j'ai finalement trouvé un script qui fonctionne.
+
+## 11/11/2022 Fin de la collecte d'URLs pour le corpus anglais et ajout du travail fait en cours (09/11/2022)
+En classe :
+Ajout du fichier index.html pour la création du site (test uniquement sur mon GitHub, pas sur celui du groupe) sans problème particulier
+Début script pour le traitement des URLs. Travail fait en collaboration avec plusieurs camarades. (première partie push, le reste est en travail.) 
+Deadline pour rendre le projet : 10 Janvier 2023
+
+Point sur la recolte d'URLs pour le corpus anglais :
+Des difficultés ont été rencontrées pour les deux termes étudiés. Je constate que dans la majorité des sites, les auteurs / utilisateurs ne font pas de différence entre geek et nerd.
+Les URLs pour nerd ont été donc plus difficiles à trouver. Peu d'articles dans des magazines / presse reconnus font référence à nerd. Geek est un peu plus utilisé. 
+Le terme nerd semble être connoté plus négativement que geek. Il est mis en avant pour nerd le côté "socially awkward" alors que geek est plus volontiers associé à "cool".
+Il est aussi intéressant de voir que geek et nerd sont employés comme noms, mais qu'ils sont aussi utilisés comme adjectif (being geek / nerd), comme adverbe geeky/ nerdy ou encore pour former d'autres noms comme geekdom / nerddom.
+Geek et nerd font plus référence à des hommes que des femmes. 
