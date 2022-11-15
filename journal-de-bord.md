@@ -50,3 +50,8 @@ Les URLs pour nerd ont été donc plus difficiles à trouver. Peu d'articles dan
 Le terme nerd semble être connoté plus négativement que geek. Il est mis en avant pour nerd le côté "socially awkward" alors que geek est plus volontiers associé à "cool".
 Il est aussi intéressant de voir que geek et nerd sont employés comme noms, mais qu'ils sont aussi utilisés comme adjectif (being geek / nerd), comme adverbe geeky/ nerdy ou encore pour former d'autres noms comme geekdom / nerddom.
 Geek et nerd font plus référence à des hommes que des femmes. 
+
+## 15/11/2022
+Modification du script bash pour le traitement des URLS avec ajout du tableau HTML. Le script a été testé sur un de mes fichiers URLS et fonctionne. Difficultés à 
+trouver comment récupérer uniquement le code HTML et non la ligne. Problème résolu avec un pipe cut. 
+Ajout des fichiers de résultats dans le dossier Exercices_Scripts_URL_projet.
