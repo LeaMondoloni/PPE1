@@ -7,7 +7,9 @@
 # arguments = mon nom de fichier urls 
 # curl -I |head donne juste les informations contenues dans l'entête
 # option -s passe curl en mode silencieux
-# head -n1 me garde juste le code HTML (200 si c'est OK)
+# head -n1 me garde juste la ligne où se trouve le code html
+# ici, à l'inverse de mon code sur les classements, on utilise cut en plaçant l'option -f 2 avant de placer le délimiteur (l'inverse affiche une erreur)
+# cut -f 2 -d ' ' permet de récupérer uniquement le code html
 #===============================================================================
 if [ $# -ne 2 ]
 then
@@ -25,12 +27,32 @@ echo "Je dois devenir du code HTML à partir de la question 3" > $fichier_tablea
 
 lineno=1;
 
-while read -r line;
-do
-	echo "ligne $lineno: $line";
-	lineno=$((lineno+1));
-	header=$(curl -I -s $line |head -n1)
-	echo "l'entête est $header ";
-done < $fichier_urls
+#while read -r line;
+#do
+#	echo "ligne $lineno: $line";
+#	lineno=$((lineno+1));
+#	header=$(curl -I -s $line |head -n1)
+#	echo "l'entête est $header ";
+#done < $fichier_urls 
 
 # il faut maintenant rediriger les résultats dans le fichier tableau qui doit être un tableau HTML.
+echo "<html>
+	<header>
+<meta charset=\"UTF-8\" />
+</header>
+<body>
+<table>
+<tr><th>ligne</th><th>code</th><th>URL</th></tr>" >> $fichier_tableau
+while read -r line;
+do
+	lineno=$((lineno+1));
+	#header=$(curl -I -s $line |head -n1|awk '{print $2}')
+	header=$(curl -I -s $line |head -n1|cut -f 2 -d ' ')
+	echo "ligne $lineno: $line";
+	echo "<tr><td>$lineno </td><td>$header </td><td>$line </td></tr>" >> $fichier_tableau
+done < $fichier_urls
+echo "</table>
+</body>
+</html>" >> $fichier_tableau
+
+	
