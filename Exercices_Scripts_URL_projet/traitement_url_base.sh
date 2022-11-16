@@ -23,7 +23,7 @@ fichier_tableau=$2 # le fichier HTML en sortie
 
 
 # modifier la ligne suivante pour créer effectivement du HTML
-echo "Je dois devenir du code HTML à partir de la question 3" > $fichier_tableau
+#echo "Je dois devenir du code HTML à partir de la question 3" > $fichier_tableau
 
 lineno=1;
 
@@ -39,9 +39,13 @@ lineno=1;
 echo "<html>
 	<header>
 <meta charset=\"UTF-8\" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+<title>tableau</title>
 </header>
 <body>
-<table>
+<table class=\"table is-bordered is-hoverable is-striped\">
+<tbody>
 <tr><th>ligne</th><th>code</th><th>URL</th></tr>" >> $fichier_tableau
 while read -r line;
 do
@@ -49,9 +53,10 @@ do
 	#header=$(curl -I -s $line |head -n1|awk '{print $2}')
 	header=$(curl -I -s $line |head -n1|cut -f 2 -d ' ')
 	echo "ligne $lineno: $line";
-	echo "<tr><td>$lineno </td><td>$header </td><td>$line </td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno </td><td>$header </td><td><a href=\"$line\">$line</a></td></tr>" >> $fichier_tableau
 done < $fichier_urls
-echo "</table>
+echo "</tbody>
+</table>
 </body>
 </html>" >> $fichier_tableau
 
