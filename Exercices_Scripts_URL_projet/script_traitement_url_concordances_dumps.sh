@@ -12,8 +12,8 @@
 # cut -f 2 -d ' ' permet de récupérer uniquement le code html
 # pour le content type => faire curl -I -s $line |egrep "charset" => puis cut -f2 -d'=' 
 # => il faut ensuite le stocker dans une variable encodage=$(curl -I -s $line |egrep "charset"|cut -f2 -d'=')
-# traitement en cas de non UTF-8 avec une boucle en if en disant que si non utf-8 iconv en UTF8=> est-ce que ça sera en dehors de la boucle ?
-# comptage occurrences avec egrep "(G|g)eeks?" / egrep "(N|n)erds?" => avec Lynx ? 
+# traitement en cas de non UTF-8 avec une boucle en if en disant que si non utf-8 iconv en UTF8
+# comptage occurrences avec egrep "(G|g)eeks?" / egrep "(N|n)erds?" 
 #===============================================================================
 
 fichier_urls=$1 # le fichier d'URL en entrée
