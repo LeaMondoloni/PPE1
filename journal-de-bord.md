@@ -55,3 +55,10 @@ Geek et nerd font plus référence à des hommes que des femmes.
 Modification du script bash pour le traitement des URLS avec ajout du tableau HTML. Le script a été testé sur un de mes fichiers URLS et fonctionne. Difficultés à 
 trouver comment récupérer uniquement le code HTML et non la ligne. Problème résolu avec un pipe cut. 
 Ajout des fichiers de résultats dans le dossier Exercices_Scripts_URL_projet.
+
+## 06/12/2022
+Fin du rattrapage de la séance manquée (21/11/2022), mise à jour du git, modifications du script de base pour les URLs ( ajout du script donnée en correction) et redirection du tableau pour la page.
+J'ai finalement décidé, après discussion avec les membres de mon groupe, d'exploiter le fichier d'URL que j'avais nommé in between et de mettre les URLS dans les fichiers des URLS GEEK et NERD.
+Cela permet en plus d'avoir des URLs supplémentaires qui remplacent celles qui ne fonctionnent pas ( celles qui n'ont pas le code 200 sont les URLS qui redirigent vers les forums). 
+Je suis un peu déçue de ne pas pouvoir travailler avec les URLS de forums, cela ne laisse que des URLS venant de magazines/ presse.
+Problème avec les dumps text et la concordance. Je n'ai aucune occurrence de relevée même si l'encodage et le code sont bons (voir tableau_Geek_anglais)et je ne comprends pas pourquoi
