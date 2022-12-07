@@ -24,7 +24,7 @@ then
 	echo "Ce programme demande exactement deux arguments."
 	exit
 fi
-mot="[Gg]eeks?"
+mot="[Nn]erds?"
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
@@ -82,7 +82,7 @@ grep -E -B2 -A2 $mot ././dumps-text/$basename-$lineno.txt > ././contextes/$basen
 bash ./concordance.sh ././dumps-text/$basename-$lineno.txt $mot > ././concordances/$basename-$lineno.html
 
 #fin du tableau
-echo "<tr><td>$lineno</td><td>$code</td><td>$encodage</td><td><a href=\"$URL\">$URL</a></td><td><a href="././aspirations/fich-$lineno.html">html</a></td><td><a href="././dumps-text/$basename-$lineno.txt">txt</a></td><td>$NB_OCC</td><td><a href="././contextes/$basename-$lineno.txt">contextes</a></td><td><a href="././concordances/$basename-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau 
+echo "<tr><td>$lineno</td><td>$code</td><td>$encodage</td><td><a href=\"$URL\">$URL</a></td><td><a href="././aspirations/$basename-$lineno.html">html</a></td><td><a href="././dumps-text/$basename-$lineno.txt">txt</a></td><td>$NB_OCC</td><td><a href="././contextes/$basename-$lineno.txt">contextes</a></td><td><a href="././concordances/$basename-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau 
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
