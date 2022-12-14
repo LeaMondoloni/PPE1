@@ -69,32 +69,23 @@ Ben Goldacre maps 'nerdy day trips' for geeks
    To contribute to the map, either tweet the info and location using the
    #nerdytrips hashtag, or add your destinations directly onto the map.
    Most Popular
-     * An in progress Tesla Model Y is seen in a production hall of the
-       Tesla Gigafactory in Berlin
-       Tesla’s Berlin Hub Can’t Hire Enough People, or Keep Them
-       By James Jackson
      * KODI SMIT-McPHEE as PETER, BENEDICT CUMBERBATCH as PHIL BURBANK
        riding horses in THE POWER OF THE DOG
        37 of the Best Films on Netflix This Week
        By WIRED
+     * view of Mochovce nuclear power station in Slovakia.
+       A Tale of Two Nuclear Plants Reveals Europe's Energy Divide
+       By Morgan Meaker
      * Fleabag holding a guinea pig in production still from Fleabag
        25 of the Best Amazon Prime Series Right Now
        By WIRED
-     * person sitting on a couch pinching top of nose and holding tissue
-       Brace Yourself for a Triple Wave of Seasonal Viruses
-       By Sabrina Weiss
+     * Filson Ballistic Nylon Duffle Pack on green backdrop
+       This Really Is the Greatest Bag Ever Made
+       By Jeremy White
      *
 
    TopicsDataCulture
    More from WIRED UK
-   An in progress Tesla Model Y is seen in a production hall of the Tesla
-   Gigafactory in Berlin
-   business
-   Tesla’s Berlin Hub Can’t Hire Enough People, or Keep Them
-   The company’s staffing problems have been magnified in Germany, where
-   it is unable to meet targets as more workers head for the exit.
-
-   By James Jackson
    KODI SMIT-McPHEE as PETER, BENEDICT CUMBERBATCH as PHIL BURBANK riding
    horses in THE POWER OF THE DOG
    culture
@@ -103,6 +94,14 @@ Ben Goldacre maps 'nerdy day trips' for geeks
    Netflix movies to feast your eyes on, updated weekly.
 
    By WIRED
+   view of Mochovce nuclear power station in Slovakia.
+   business
+   A Tale of Two Nuclear Plants Reveals Europe's Energy Divide
+   An upgraded power plant in Slovakia has angered neighboring Austria and
+   fueled the debate over nuclear power and  independence from Russian
+   gas.
+
+   By Morgan Meaker
    Fleabag holding a guinea pig in production still from Fleabag
    culture
    25 of the Best Amazon Prime Series Right Now
@@ -110,14 +109,20 @@ Ben Goldacre maps 'nerdy day trips' for geeks
    best Amazon Prime series.
 
    By WIRED
-   person sitting on a couch pinching top of nose and holding tissue
-   science
-   Brace Yourself for a Triple Wave of Seasonal Viruses
-   Many people haven’t been exposed to common respiratory viruses
-   following the pandemic, meaning they might be more vulnerable to
-   getting ill this year.
+   Filson Ballistic Nylon Duffle Pack on green backdrop
+   gear
+   This Really Is the Greatest Bag Ever Made
+   In my 10 years as a Gear editor at WIRED, Filson’s Ballistic Nylon
+   Duffle Pack is hands down my favorite gear item.
 
-   By Sabrina Weiss
+   By Jeremy White
+   Black computer keyboard key Letter Q on red backdrop
+   security
+   Elon Musk’s Twitter Files Are a Feast for Conspiracy Theorists
+   From QAnon influencers to @catturd, the very online right sees exactly
+   what they want to see in the CEO’s orchestrated disclosure.
+
+   By Justin Ling
    Riz Ahmed as Ruben Stone in the Sound of Metal
    culture
    10 of the Best Films on Amazon Prime Right Now
@@ -125,30 +130,22 @@ Ben Goldacre maps 'nerdy day trips' for geeks
    films available on Amazon Prime.
 
    By WIRED
-   Illustration of a hand using a Linkedin chess piece to knock a twitter
-   chess piece off of a chessboard on a phone screen
-   business
-   I Found the Perfect Replacement for Twitter. It’s LinkedIn
-   In a fragmented online world, the professional social network is
-   finding mass appeal.
-
-   By Morgan Meaker
-   Front view of the Volvo EX90, parked in a garage.
-   gear
-   Volvo’s New EV Flagship Is Basically a Family-Friendly Polestar
-   The EX90 ushers in a new era of lidar-driven safety tech for Volvo. But
-   if it’s nearly the same as the Polestar 3 underneath, how can the brand
-   stand out?
-
-   By Alex Goy
-   two rangers riding ebikes
+   stretchable thin material
    science
-   Park Rangers Are Using Silent Ebikes to Catch Poachers
-   A Swedish electric bike is helping Mozambique’s park rangers protect
-   game and reducing the need for fossil fuel infrastructure in Africa’s
-   remotest areas.
+   Electronic Second Skins Are the Wearables of the Future
+   Flexible e-skins could be used to measure wearers’ blood pressure,
+   temperature, and oxygen levels in real time, assisting with diagnoses
+   and health care.
 
-   By Andy Jones
+   By Sabrina Weiss
+   An in progress Tesla Model Y is seen in a production hall of the Tesla
+   Gigafactory in Berlin
+   business
+   Tesla’s Berlin Hub Can’t Hire Enough People, or Keep Them
+   The company’s staffing problems have been magnified in Germany, where
+   it is unable to meet targets as more workers head for the exit.
+
+   By James Jackson
 
    WIRED
    WIRED is where tomorrow is realised. It is the essential source of

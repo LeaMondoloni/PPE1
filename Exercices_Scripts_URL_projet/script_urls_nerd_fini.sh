@@ -24,7 +24,7 @@ then
 	echo "Ce programme demande exactement deux arguments."
 	exit
 fi
-mot="[Nn]erds?"
+mot="[Nn]erd(dom|s)?"
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)

@@ -6,5 +6,5 @@ Checking if the site connection is secure
    www.lifehack.org needs to review the security of your connection before
    proceeding.
 
-   Ray ID: 775cd78f4e417407
+   Ray ID: 7796a062da7971c8
    Performance & security by Cloudflare

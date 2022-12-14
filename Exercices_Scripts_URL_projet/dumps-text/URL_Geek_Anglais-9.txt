@@ -69,18 +69,17 @@ Is the word "geek" good or bad?
 
    Pepper gray Spice (111) Reply (130)
    flagReport
-   User Jof Keiter
+   Jof Keiter
    Joffles This person is a Verified Professional
    This person is a verified professional.
    Verify your account to enable IT peers to see that you are a
    professional.
    datil
 
-Popular Topics in Water Cooler
+Banking on Cloud
 
-   Spark! Pro Series - 6 December 2022 Spark! Pro series – 5th December
-   2022 Communication is dead I have a HUGE issue to bring to the
-   community Spark! Pro series - 7th December 2022 View all topics
+   2022-12-15 15:00:00 UTC Webinar Webinar: AWS & Smarsh - Banking on
+   Cloud Event Details Opens a new window View all events
 
 130 Replies
 
@@ -458,6 +457,7 @@ Popular Topics in Water Cooler
        I prefer, I.T. Gangsta ;)
        Pepper gray Spice (8) flagReport
        Was this post helpful? thumb_up thumb_down
+     *
      * Author Greg1 Fletcher
        Greg17665 This person is a Verified Professional
        This person is a verified professional.
@@ -602,6 +602,7 @@ Popular Topics in Water Cooler
        to take yoursefl to one side and have a word with yourself.
        Pepper gray Spice (17) flagReport
        Was this post helpful? thumb_up thumb_down
+     *
      * Author Jof Keiter
        OP Joffles This person is a Verified Professional
        This person is a verified professional.
@@ -747,49 +748,49 @@ Popular Topics in Water Cooler
 
 Read these next...
 
-     * Simple command to monitor Windows 10 temperature?
+     * Applying Group Policy
 
-Simple command to monitor Windows 10 temperature?
-       Hardware
-       I feel like this has probably been address before, although I was
-       wondering if someone is aware of a simple command I can run to
-       report the internal temperature of a Windows 10 PC?I think all
-       computers monitor the temperature, although I've only found thi...
+Applying Group Policy
+       Windows
+       Hello,I am currently setting up a home lab for testing GPOs using
+       Virtual Box. I set up a VM with windows server 2019 and a VM with
+       Windows 10. I was able to join the Windows 10 VM to the domain
+       without any issues. What I am having issues with is the GPO ...
      *
-     * Remote access to DVR?
+     * Topology for LAN switches using fiber
 
-Remote access to DVR?
-       Security
-       Hi!I have an older Hikvision DVR that I need to provide remote
-       access to. The users would be mainly accessing it from their
-       smartphones. I tested their software, iVMS, by assigning one of my
-       public IP's to the DVR and it worked fine. However the issue is ...
-     * Snap! -- Survival Kits, Forest Bubble on Mars, AI Movie Plots,
-       Leprosy & Livers
+Topology for LAN switches using fiber
+       Networking
+       I am planning to connect core switch to multiple switches using 6
+       strand fiber cable...which type of cnnection is resilient Star or
+       Ring??? If I make star then do i have to use new cable to each
+       switch or strand of a cable to patch other switch??Thank...
+     * Spark! Pro Series - 13 December 2022
 
-Snap! -- Survival Kits, Forest Bubble on Mars, AI Movie Plots, Leprosy &
-Livers
+Spark! Pro Series - 13 December 2022
+       Spiceworks Originals
+       Today in History: 13 December 1577 – Francis Drake sets sail from
+       England on an epic three year circumnavigation of the world aboard
+       the Golden Hind 1774 – Paul Revere and Wentworth Cheswell ride to
+       warn Portsm...
+     * Snap! -- Safe Battery, Martian Dirt, Virtual Mars, Geminids,
+       Jet-Powered Sleigh
+
+Snap! -- Safe Battery, Martian Dirt, Virtual Mars, Geminids, Jet-Powered
+Sleigh
        Spiceworks Originals
        Your daily dose of tech news, in brief. Welcome to the Snap!
-       Flashback: Back on December 6, 1907, Mathematical Logician J.
-       Barkley Rosser Born (Read more HERE.) Bonus Flashback: Back on
-       December 6, 1998, International Space Station assemb...
-     * Spark! Pro Series - 6 December 2022
+       Flashback: Back on December 13, 2004, David Wheeler, Inventor of
+       the Closed Subroutine, Dies (Read more HERE.) Bonus Flashback: Back
+       on December 13, 1972 The third and last moon...
+     * Multiple Audit failures on DC from legit user accounts
 
-Spark! Pro Series - 6 December 2022
-       Spiceworks Originals
-       Today in History: 6 December 1240 – Mongols led by Batu Khan occupy
-       and destroy Kyiv after an 8 day siege; out of 50,000 people in the
-       city only 2,000 survive 1849 – Harriet Tubman escapes from slavery
-       in Maryl...
-     * The most boring but interesting Phishing Attempt I've seen
-
-The most boring but interesting Phishing Attempt I've seen
+Multiple Audit failures on DC from legit user accounts
        Security
-       Hello There,We've recently had a phishy email come through to one
-       of our employees with an attachment to something work related. But
-       here's the interesting part: The email was spoofed. When checked,
-       the address was that of our own domain, however the emai...
+       Hello fellow IT warriors,I have a potential security concern that
+       I'm hoping can have some light shed on it. A couple of weeks ago I
+       saw some Audit Failures coming from a particular workstation on our
+       domain that were passed off as a student trying to get...
 
      * About
      * Contact

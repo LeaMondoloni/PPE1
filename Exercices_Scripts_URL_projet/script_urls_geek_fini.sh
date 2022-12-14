@@ -24,7 +24,7 @@ then
 	echo "Ce programme demande exactement deux arguments."
 	exit
 fi
-mot="[Gg]eeks?"
+mot="[Gg]eek(dom|s|[Mm]om|[Dd]ad)?"
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)

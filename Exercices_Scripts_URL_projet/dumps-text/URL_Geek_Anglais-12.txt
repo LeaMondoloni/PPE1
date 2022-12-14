@@ -1,7 +1,7 @@
    (BUTTON) Sign Out (BUTTON) Sign In (BUTTON) Subscribe
 
-   Cyber Monday Sale - Only 99¢ for six months. Click here to subscribe!
-   Sign up for our free newsletters.
+   Holiday Sale - Only 99¢ for six months. Click here to subscribe! Sign
+   up for our free newsletters.
    X
 
                  Being called a ‘tech geek’ is now a compliment
@@ -64,7 +64,7 @@
 
    .....We hope you appreciate our content. Subscribe Today to continue
    reading this story, and all of our stories.
-   Cyber Monday Sale
+   Holiday Sale
    Only 99¢ for six months
    SUBSCRIBE NOW
    Already a subscriber?

@@ -59,13 +59,6 @@ more stack exchange communities
          2. Teams
          3. Create free Team
 
-   Stack Overflow for Teams is moving to its own domain! When the
-   migration is complete, you will access your Teams at
-   stackoverflowteams.com, and they will no longer appear in the left
-   sidebar on stackoverflow.com.
-
-   Check your email for updates.
-
    Teams
 
    Q&A for work
@@ -363,39 +356,40 @@ Related
 
 Hot Network Questions
 
-     * What do students mean by "makes the course harder than it needs to
-       be"?
-     * Why is integer factoring hard while determining whether an integer
-       is prime easy?
-     * Write a number as a sum of Fibonacci numbers
-     * Would a radio made out of Anti matter be able to communicate with a
-       radio made from regular matter?
-     * Is there any other chance for looking to the paper after rejection?
-     * Is there precedent for Supreme Court justices recusing themselves
-       from cases when they have strong ties to groups with strong
-       opinions on the case?
-     * How do I persuade (La)TeX(3) to read a file character by character?
-     * How could a really intelligent species be stopped from developing?
-     * Output the length of (the length plus a message)
-     * automatic memory allocation
-     * Separating columns of layer and exporting set of columns in a new
-       QGIS layer
-     * Would the US East Coast raise if everyone living there moved away?
-     * Is playing an illegal Wild Draw 4 considered cheating or a bluff?
-     * Why is Julia in Cyrillic regularly transcribed as Yulia in English?
-     * Cannot `cd` to E: drive using Windows CMD command line
-     * How to fit data to a math formula?
-     * Multiple voices in Lilypond: stem directions, beams, and merged
-       noteheads
-     * Why did NASA need to observationally confirm whether DART
-       successfully redirected Dimorphos?
-     * When and by whom were the Piyutim of Channukah written?
-     * D&D 5e : Is the puzzle presented below solvable with the
-       information presented?
-     * What is this schematic symbol in the INA851 overvoltage schematic?
-     * What is this core inside a coconut seed?
-     * A particle on a ring has quantised energy levels - or does it?
-     * Do mRNA Vaccines tend to work only for a short period of time?
+     * What position exactly did Merkel express recently about the Minsk
+       agreements?
+     * Whats the exit pressure of the F-1 engine?
+     * What is the Super key?
+     * If inductors opposes any change in electrical current, how can the
+       magnetic field vary with time if the current is varying with time?
+     * Existence of planets
+     * What is at the tip of large string concert instruments, and does it
+       damage the floor?
+     * How did SmartDrive work?
+     * When quoting poetry, is it appropriate to place [sic] after a
+       lowercase 'I'?
+     * CGAC2022 Day 14: Chimney cleaning
+     * Why do helicopters experience a brief dip in altitude during IGE
+       marginal power takeoffs?
+     * What is the rotating gold object on the outside of ISS?
+     * Non-tail recursion and argument expansion order
+     * "As many as 100.000 nurses" vs "Around/about/almost/nearly 100.000
+       nurses"? Are they the same?
+     * Can I visit USA for vacation with my Swedish passport if my wife is
+       an American citizen?
+     * Cut down "freeway" noise coming in window
+     * Implementation of a two-dimensional array in C
+     * What motivated stack being invented originally?
+     * Suppose an array of mirrors 50 km above the surface reflect light
+       straight down. How long before the sun rise are they illuminated?
+     * What kind of wire can I use in my crawl space?
+     * CGAC2022 Day 13: Santa's gift and the laser lock, Part 2
+     * Is Trivium still secure?
+     * Is it ethical to become a volunteer teaching assistant?
+     * Is it possible that the Rosetta orbiter moved the comet when it
+       crashed?
+     * Is it idiomatic to say, 'someone thinks about how XXX' instead of
+       'someone thinks XXX'?
 
    more hot questions
    Question feed
@@ -449,7 +443,7 @@ Stack Exchange Network
      * Instagram
 
    Site design / logo © 2022 Stack Exchange Inc; user contributions
-   licensed under CC BY-SA. rev 2022.12.6.43081
+   licensed under CC BY-SA. rev 2022.12.13.43115
 
    Your privacy
 
