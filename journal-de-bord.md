@@ -62,3 +62,8 @@ J'ai finalement décidé, après discussion avec les membres de mon groupe, d'ex
 Cela permet en plus d'avoir des URLs supplémentaires qui remplacent celles qui ne fonctionnent pas ( celles qui n'ont pas le code 200 sont les URLS qui redirigent vers les forums). 
 Je suis un peu déçue de ne pas pouvoir travailler avec les URLS de forums, cela ne laisse que des URLS venant de magazines/ presse.
 Problème avec les dumps text et la concordance. Je n'ai aucune occurrence de relevée même si l'encodage et le code sont bons (voir tableau_Geek_anglais)et je ne comprends pas pourquoi
+
+## 14/12/2022
+Fin des scripts (pour de vrai). On a réussi à pourvoir faire des expressions régulières plus complexes en modifiant un peu le script de base. 
+Le script itrameur a posé un peu problème, cependant les fichiers ont bien été générés grâce à la commande bash -x correction_itrameur.sh 
+À voir s'il y a un problème avec itrameur après.
