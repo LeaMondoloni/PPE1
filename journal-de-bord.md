@@ -67,3 +67,8 @@ Problème avec les dumps text et la concordance. Je n'ai aucune occurrence de re
 Fin des scripts (pour de vrai). On a réussi à pourvoir faire des expressions régulières plus complexes en modifiant un peu le script de base. 
 Le script itrameur a posé un peu problème, cependant les fichiers ont bien été générés grâce à la commande bash -x correction_itrameur.sh 
 À voir s'il y a un problème avec itrameur après.
+
+## 08/01/2023
+Durant la pause de Noël j'ai procédé à l'analyse avec iTrameur et me suis rendue compte qu'il n y avait pas de lemmatisation possible, comme cela peut l'être avec d'autres outils textométriques comme TXM.
+Après échange de mail avec M.Magitsry, j'ai procédé à une lemmatisation sur mes dumps avec la commande sed. On perd un peu en analyse ( notamment sur la question du pluriel / singulier).
+La majeure partie du travail se fait maintenant sur la page commune au groupe. La page est fonctionnelle.
